@@ -9088,9 +9088,11 @@ input[type=range]::-ms-thumb {
 
 .hours-div {
   text-align: left;
+  font-family: 'Material Icons';
 }
 
 .hours {
   text-align: left;
   list-style-type: none;
+  font-family: 'Material Icons';
 }
