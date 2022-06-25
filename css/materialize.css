@@ -9086,11 +9086,11 @@ input[type=range]::-ms-thumb {
 
 /* order button door dash uber eats grubhub */
 
+.hours-div {
+  text-align: left;
+}
+
 .hours {
   text-align: left;
   list-style-type: none;
 }
-
-
-
-
