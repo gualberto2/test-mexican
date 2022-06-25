@@ -9095,4 +9095,5 @@ input[type=range]::-ms-thumb {
   text-align: left;
   list-style-type: none;
   font-family: 'Material Icons';
+  font-size: 14px;
 }
