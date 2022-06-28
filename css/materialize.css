@@ -9096,3 +9096,9 @@ input[type=range]::-ms-thumb {
   font-size: 14px;
   font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
+
+
+.taco-truck {
+  height: 56px;
+  width: 56px;
+}
