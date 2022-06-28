@@ -9098,7 +9098,26 @@ input[type=range]::-ms-thumb {
 }
 
 
-.taco-truck {
-  height: 56px;
-  width: 56px;
+img.taco-truck {
+  left: 50%;
+  margin: 0px auto;
+  display: block;
+  height: 52px;
+  width: 52px;
+}
+
+img.enchilada {
+  left: 50%;
+  margin: 0px auto;
+  display: block;
+  height: 52px;
+  width: 52px;
+}
+
+img.taco {
+  left: 50%;
+  margin: 0px auto;
+  display: block;
+  height: 52px;
+  width: 52px;
 }
