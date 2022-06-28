@@ -9100,7 +9100,7 @@ input[type=range]::-ms-thumb {
 
 img.taco-truck {
   left: 50%;
-  margin: 0px auto;
+  margin: 30px auto;
   display: block;
   height: 52px;
   width: 52px;
@@ -9108,7 +9108,7 @@ img.taco-truck {
 
 img.enchilada {
   left: 50%;
-  margin: 0px auto;
+  margin: 30px auto;
   display: block;
   height: 52px;
   width: 52px;
@@ -9116,7 +9116,7 @@ img.enchilada {
 
 img.taco {
   left: 50%;
-  margin: 0px auto;
+  margin: 30px auto;
   display: block;
   height: 52px;
   width: 52px;
