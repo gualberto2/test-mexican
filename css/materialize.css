@@ -9126,8 +9126,8 @@ img.grubhub {
   left: 50%;
   margin: 30px auto;
   display: block;
-  height: 52px;
-  width: 52px;
+  height: 130px;
+  width: 130px;
   object-fit: cover;
 }
 
@@ -9135,8 +9135,8 @@ img.uber-eats {
   left: 50%;
   margin: 30px auto;
   display: block;
-  height: 52px;
-  width: 52px;
+  height: 130px;
+  width: 130px;
   object-fit: cover;
   position: relative;
 }
@@ -9145,7 +9145,7 @@ img.postmates {
   left: 50%;
   margin: 30px auto;
   display: block;
-  height: 52px;
-  width: 52px;
+  height: 130px;
+  width: 130px;
   object-fit: cover;
 }
